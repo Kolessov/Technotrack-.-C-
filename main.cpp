@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
-#include<iostream>
 
 int swap_(int *d,int *c){
     int temp = *d;
